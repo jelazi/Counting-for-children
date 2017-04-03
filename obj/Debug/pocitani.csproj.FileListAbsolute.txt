@@ -1,0 +1,63 @@
+c:\users\lubin\documents\visual studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Odcitani.resources
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pocitani.resources
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.Properties.Resources.resources
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csproj.GenerateResource.Cache
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csprojResolveAssemblyReference.cache
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.pdb
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+C:\Users\Lubin\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Scitani.resources
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.pdb
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Odcitani.resources
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pocitani.resources
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Scitani.resources
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\scitodec.Scitodec.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.pdb
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\scitodec.Scitodec.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Odcitani.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pocitani.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Scitani.resources
+E:\Documents\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csproj.GenerateResource.Cache
+D:\Dokumenty\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+D:\Dokumenty\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+D:\Dokumenty\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.pdb
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csprojResolveAssemblyReference.cache
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pocitani.resources
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.Properties.Resources.resources
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csproj.GenerateResource.Cache
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe.config
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.exe
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pdb
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.exe
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\bin\Debug\pocitani.pdb
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.rozmeziodcit.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.rozmeziscit.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\scitodec.Scitodec.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Odcitani.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.pocitani.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.Properties.Resources.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\odcitani.Scitani.resources
+D:\Dokumenty\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.csproj.GenerateResource.Cache
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.FormPocitani.resources
+F:\Documents\Programování\Jazyk c# .net\Visual Studio 2015\Projects\pocitani\pocitani\obj\Debug\pocitani.rozmezi.resources
